@@ -57,15 +57,6 @@
 
 ---
 
-## Sample Output
-
-| CustomerID | Recency | Frequency | AOV   | Predicted_LTV |
-|------------|---------|-----------|-------|---------------|
-| 12345      | 12      | 8         | 142.6 | 2104.52       |
-| 67890      | 3       | 2         | 94.12 | 527.89        |
-
----
-
 ## Final Report
 > Find the 2-page PDF in `LTV_Report.pdf`
 
